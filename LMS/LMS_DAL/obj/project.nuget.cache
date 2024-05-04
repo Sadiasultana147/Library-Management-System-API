@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "thlISA/bqG7Cdcj2HnHxBBc1unOum7DeukGNYIzTYdYg4KEzkBtZtqRjuzE8x+w+l2q2cFlA2pjN+9ww/uIGVg==",
+  "dgSpecHash": "HjoE7nh78vyIrwRJJLcP9LPJs1GRM8iHtFajV+9MYjo718tun0noIv5KbRaFZFIiTVsGRbR3KFFntYHQod+Nhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Music\\LMS\\LMS_DAL\\LMS_DAL.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Music\\Library-Management-System-API\\LMS\\LMS_DAL\\LMS_DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",

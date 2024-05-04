@@ -3693,11 +3693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Music\\LMS\\LMS_API\\LMS_API.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Music\\Library-Management-System-API\\LMS\\LMS_API\\LMS_API.csproj",
       "projectName": "LMS_API",
-      "projectPath": "C:\\Users\\HP\\Music\\LMS\\LMS_API\\LMS_API.csproj",
+      "projectPath": "C:\\Users\\HP\\Music\\Library-Management-System-API\\LMS\\LMS_API\\LMS_API.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Music\\LMS\\LMS_API\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Music\\Library-Management-System-API\\LMS\\LMS_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -3720,14 +3720,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Music\\LMS\\LMS_BAL\\LMS_BAL.csproj": {
-              "projectPath": "C:\\Users\\HP\\Music\\LMS\\LMS_BAL\\LMS_BAL.csproj"
+            "C:\\Users\\HP\\Music\\Library-Management-System-API\\LMS\\LMS_BAL\\LMS_BAL.csproj": {
+              "projectPath": "C:\\Users\\HP\\Music\\Library-Management-System-API\\LMS\\LMS_BAL\\LMS_BAL.csproj"
             },
-            "C:\\Users\\HP\\Music\\LMS\\LMS_DAL\\LMS_DAL.csproj": {
-              "projectPath": "C:\\Users\\HP\\Music\\LMS\\LMS_DAL\\LMS_DAL.csproj"
+            "C:\\Users\\HP\\Music\\Library-Management-System-API\\LMS\\LMS_DAL\\LMS_DAL.csproj": {
+              "projectPath": "C:\\Users\\HP\\Music\\Library-Management-System-API\\LMS\\LMS_DAL\\LMS_DAL.csproj"
             },
-            "C:\\Users\\HP\\Music\\LMS\\LMS_DATA\\LMS_DATA.csproj": {
-              "projectPath": "C:\\Users\\HP\\Music\\LMS\\LMS_DATA\\LMS_DATA.csproj"
+            "C:\\Users\\HP\\Music\\Library-Management-System-API\\LMS\\LMS_DATA\\LMS_DATA.csproj": {
+              "projectPath": "C:\\Users\\HP\\Music\\Library-Management-System-API\\LMS\\LMS_DATA\\LMS_DATA.csproj"
             }
           }
         }
