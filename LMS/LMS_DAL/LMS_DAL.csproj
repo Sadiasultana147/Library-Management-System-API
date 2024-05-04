@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LMS_BAL\LMS_BAL.csproj" />
+    <ProjectReference Include="..\LMS_DATA\LMS_DATA.csproj" />
+  </ItemGroup>
+
+</Project>
